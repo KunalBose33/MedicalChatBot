@@ -1,0 +1,10 @@
+fastapi==0.112.2
+uvicorn==0.30.6
+pydantic==2.7.4
+python-dotenv==1.0.1
+numpy==1.26.4
+pandas==2.2.2
+# Placeholders for Azure (only needed when you enable USE_AZURE=True)
+# azure-ai-textanalytics
+# azure-search-documents
+# openai>=1.40.0
